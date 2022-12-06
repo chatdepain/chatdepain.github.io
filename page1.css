@@ -1,0 +1,21 @@
+
+.d-flex{
+    display: flex; 
+}
+
+.inf {
+    padding: 40px 18px;
+    text-align: justify;
+    font-size: 24px;
+    color: #24293d;
+    background-color: #d6c8a5a4;
+}
+.news{
+    padding: 40px 10px;
+    font-size: 22px;
+    color: #181b29;
+}
+ul{
+    padding: 15px 15px;
+    list-style-image: url(imgs/2237911.png);
+}

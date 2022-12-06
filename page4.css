@@ -1,0 +1,12 @@
+.d-flex {
+    display: flex;
+}
+.inf {
+    text-align: justify;
+    font-size: 24px;
+    color: #24293d;
+    background-color: #d6c8a5a4;
+}
+.inf p {
+    margin: 18px;
+}

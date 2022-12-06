@@ -1,0 +1,24 @@
+.d-flex{
+    display: flex; 
+}
+main {
+    background-color: #D6C8A5;
+    background-image: url(imgs/image_2022-12-01_02-59-06.png);
+    background-attachment: fixed;
+}
+.info {
+    background-color: #0d0f1699;
+    color: #D6C8A5;
+    padding: 40px 0px;
+    font-size: 20px;
+    text-align: justify;
+}
+.info p {
+    padding: 40px 20px;
+}
+.ha {
+    margin: 20px 0px;
+    display: flex;
+    background-color: #8cccec6f;
+    color: #000000;
+}

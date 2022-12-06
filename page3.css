@@ -1,0 +1,19 @@
+.d-flex {
+    display: flex;
+}
+.inf {
+    text-align: justify;
+    font-size: 24px;
+    color: #24293d;
+    background-color: #d6c8a5a4;
+}
+.inf audio {
+    padding: 18px 5px;
+    margin: 0px 20px;
+}
+.inf p {
+    margin: 10px 18px 40px 18px;
+}
+.inf img {
+    margin: 0px 238px;
+}
